@@ -33,30 +33,5 @@ Install frontend server
 ```
     
 
-## Enviroment Variable
 
-### Frontend Variables
-```
-REACT_APP_WS_URL="your websocket url link here"
-```
-
-### Node Server Variables
-
-```
-AI_API_KEY="your rapid api key here"
-```
-
-
-## Authors
-
-- [@sanjaysrocks](https://www.github.com/sanjaysrocks)
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
